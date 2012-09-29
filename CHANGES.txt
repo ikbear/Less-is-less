@@ -1,0 +1,48 @@
+6/04/2010:  **VERSIÓN SUBIDA A WORDPRESS - 1.4**
+==========
+	- Eliminado el border de las imágenes enlazadas dentro de los posts.
+	- Cambiada la frase "Leave a Reply" a "Leave a Comment"
+	- Added belarusian translation (thanks to Patricia Claustnitzer: http://pc.de/)
+
+16/03/2009:  **VERSIÓN SUBIDA A WORDPRESS - 1.3**
+	- Cambiada la licencia a GPL
+
+13/03/2009:  **VERSIÓN SUBIDA A WORDPRESS - 1.2**
+	- Añadida página de opciones que permite cambiar el estilo de colores y el texto del pie de página.
+
+04/03/2009:  **VERSIÓN SUBIDA A WORDPRESS - 1.1**
+===========
+	- Corregido el "title" de los títulos de cada post
+	- Modificado el CSS para facilitar el cambio de los colores
+	- Añadido el color azul (colors_blue.css)
+	- Añadido el color rosa (colors_pink.css)
+
+03/03/2009:  **VERSIÓN SUBIDA A WORDPRESS - 1.0**
+===========
+	- Añadido padding al widget de texto plano
+	- Mejorado el estilo de las captions
+
+25/02/2009:
+===========
+	- Añadido estilo para los sticky posts
+
+24/02/2009:
+===========
+	- Quitada la cursiva en los blockquotes
+	- Corregido el padding de los enlaces en el menú principal
+	- Corregidos los enlaces del footer
+	- Elimina la sección de metadatos de de las páginas de attachments
+	- Oculta la fecha sobre el título de las páginas
+	- Añadido overflow:hidden a div.entry para evitar que las cosas se solapen con el sidebar
+	- Define la variable de Wordpress $content_width
+
+23/02/2009:
+===========
+	- Eliminado el padding-bottom de los widgets, que quedaba feo
+
+18/02/2009:  **VERSIÓN SUBIDA A WORDPRESS - 0.93**
+===========
+	- Quitar los metadatos (categoría, tags, etc...) de las páginas
+	- Añadido "overflow:auto" a los pre para que las líneas largas no sobresalgan
+	- Añadido estilo para los captions
+	- Añadido un poco de estilo para los blockquotes

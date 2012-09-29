@@ -1,0 +1,18 @@
+TRANSLATIONS.txt
+
+A .po file is provided so that you can translate this theme into any language 
+you want. That file is the one called: LessIsLess.po
+
+You can learn more about translating Wordpress themes here:
+http://codex.wordpress.org/Translating_WordPress
+
+
+
+IT WOULD BE GREAT IF:
+
+It would be great if you sended me the translations you make so that I can 
+publish it with the theme. Send them to the following email:
+
+miguel.santirso@gmail.com
+-------------------------
+

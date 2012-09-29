@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Less Is Less Wordpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-13 20:43+0100\n"
+"PO-Revision-Date: 2010-04-24 16:43+0300\n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Patricia Clausnitzer <pat.clausnitzer@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sidebar.php:19
+msgid "Use the widgets options to add things to this sidebar."
+msgstr "Выкарыстоўваць опцыі вiджэтау, каб дадаць элементы да гэтай панэлі"
+
+#: index.php:14
+msgid "comments"
+msgstr "каментары"
+
+#: index.php:16
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "сталая спасылка на %s"
+
+#: index.php:20
+msgid "Read the rest of this entry &raquo;"
+msgstr "прачытаць астатнюю частку запісу &raquo;"
+
+#: index.php:22
+msgid "Edit"
+msgstr "рэдагаваць"
+
+#: index.php:25
+msgid "<p><strong>Pages:</strong> "
+msgstr "<p><strong>Старонкі:</strong> "
+
+#: index.php:28
+msgid "Post Info"
+msgstr "апублікаваць інфармацыю"
+
+#: index.php:29
+msgid "Category:"
+msgstr "катэгорыя:"
+
+#: index.php:30
+msgid "Tags:"
+msgstr "тэгі:"
+
+#: index.php:43
+msgid "&laquo; Older Entries"
+msgstr "&laquo; старыя запісы"
+
+#: index.php:44
+msgid "Newer Entries &raquo;"
+msgstr "новыя запісы &raquo;"
+
+#: index.php:49
+msgid "Not Found"
+msgstr "не знойдзена"
+
+#: index.php:50
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "выбачыце, але вы шукаеце тое, чаго тут няма"
+
+#: comments.php:5
+#: comments.legacy.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr "калі ласка, не загружайце гэту старонку напрамую. дзякуй!"
+
+#: comments.php:8
+#: comments.legacy.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Гэты пост абаронены паролем. Увядзіце пароль для прагляду каментароў."
+
+#: comments.php:19
+#, php-format
+msgid "<span>Pingbacks</span> to &#8220;%s&#8221;"
+msgstr "<span>Pingbacks</span> hacia &#8220;%s&#8221;"
+
+#: comments.php:34
+#: comments.legacy.php:17
+msgid "No comments"
+msgstr "няма каментароў"
+
+#: comments.php:34
+#: comments.legacy.php:17
+msgid "One comment"
+msgstr "1 каментар"
+
+#: comments.php:34
+#: comments.legacy.php:17
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: comments.php:34
+#: comments.legacy.php:17
+msgid "to"
+msgstr "для"
+
+#: comments.php:37
+msgid "Reply"
+msgstr "адказаць"
+
+#: comments.php:51
+#: comments.legacy.php:53
+msgid "Comments are closed."
+msgstr "каментары зачынены"
+
+#: comments.php:60
+#: comments.legacy.php:63
+msgid "Leave a Reply"
+msgstr "пакінуць адказ"
+
+#: comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "пакінуць адказ %s"
+
+#: comments.php:67
+#: comments.legacy.php:67
+msgid "logged in"
+msgstr "увайсці ў сістэму"
+
+#: comments.php:68
+#: comments.legacy.php:68
+#, php-format
+msgid "You must be $1%s to post a comment"
+msgstr "вы павінны быць $1%s, каб апублікаваць каментар"
+
+#: comments.php:75
+#: comments.legacy.php:75
+msgid "Logged in as"
+msgstr "увайшоў як"
+
+#: comments.php:75
+#: comments.legacy.php:75
+msgid "Log out of this account"
+msgstr "выйдзі з гэтага акаунта"
+
+#: comments.php:75
+#: comments.legacy.php:75
+msgid "Log out"
+msgstr "выйсці"
+
+#: comments.php:80
+#: comments.legacy.php:80
+msgid "Name"
+msgstr "імя"
+
+#: comments.php:80
+#: comments.php:83
+#: comments.legacy.php:80
+#: comments.legacy.php:83
+msgid "(required)"
+msgstr "(патрабавалася)"
+
+#: comments.php:83
+#: comments.legacy.php:83
+msgid "Mail (will not be published)"
+msgstr "пошта (не будзе опублкована)"
+
+#: comments.php:86
+#: comments.legacy.php:86
+msgid "Website"
+msgstr "сайт"
+
+#: comments.php:94
+#: comments.legacy.php:94
+msgid "Submit Comment"
+msgstr "дадаць каментар"
+
+#: footer.php:10
+#: functions.php:52
+msgid "Less is less,<br/>but usually better"
+msgstr "меншае менш, <br/>, але, як правіла, лепш"
+
+#: footer.php:13
+#, php-format
+msgid "%1$s is a minimalist, beautiful theme<br/>for %2$s created by %3$s"
+msgstr "%1$s минималистическая прыгожая тэма<br/> для %2$s , створаная %3$s"
+
+#: footer.php:13
+msgid "\"Less is Less\""
+msgstr "\"менш ёсць менш\""
+
+#: header.php:55
+msgid "Home"
+msgstr "зваротна"
+
+#: header.php:56
+msgid "Archive"
+msgstr "архіў"
+
+#: contextualInfo.php:3
+#, php-format
+msgid "Search results for <span>%s</span>"
+msgstr "вынікі пошуку для <span>%s</span>"
+
+#: contextualInfo.php:9
+#, php-format
+msgid "Posts tagged with <span>%s</span>"
+msgstr "тэгі пастоў для <span>%s</span>"
+
+#: contextualInfo.php:16
+#, php-format
+msgid "Posts archived in <span>%s</span>"
+msgstr "пасты архіваваны ў <span>%s</span>"
+
+#: contextualInfo.php:22
+#: contextualInfo.php:28
+#, php-format
+msgid "Posts published during <span>%s</span>"
+msgstr "пасты апублікаваны на протяженииl <span>%s</span>"
+
+#: contextualInfo.php:35
+#, php-format
+msgid "Posts published at <span>%s</span>"
+msgstr "пасты апублікаваны на <span>%s</span>"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "пошук"
+
+#: functions.php:41
+msgid "Color Scheme"
+msgstr "колер тэмы"
+
+#: functions.php:42
+msgid "Choose the color scheme."
+msgstr "абраць колер тэмы"
+
+#: functions.php:48
+msgid "Footer Phrase"
+msgstr "Фраза склепа"
+
+#: functions.php:49
+msgid "Choose the phrase that will appear at the bottom of the page. Use the <tt>br</tt> tag to force the line break."
+msgstr "Абярыце фразу, якая будзе з'яўляцца ў ніжняй частцы старонкі. Выкарыстоўвайце  <tt>br</tt> "
+
+#: comments.legacy.php:27
+msgid "says"
+msgstr "казаць"
+

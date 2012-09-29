@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Less Is Less Wordpress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-06 20:23+0100\n"
+"PO-Revision-Date: 2010-04-06 20:23+0100\n"
+"Last-Translator: Miguel Santirso <miguel.santirso@gmail.com>\n"
+"Language-Team: http://miguelsantirso.es <miguel.santirso@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.legacy.php:5
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Por favor no cargues directamente esta página. ¡Gracias!"
+
+#: comments.legacy.php:8
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida por contraseña. Entra la contraseña para ver los comentarios."
+
+#: comments.legacy.php:17
+#: comments.php:34
+msgid "No comments"
+msgstr "No hay comentarios"
+
+#: comments.legacy.php:17
+#: comments.php:34
+msgid "One comment"
+msgstr "Un comentario"
+
+#: comments.legacy.php:17
+#: comments.php:34
+#, php-format
+msgid "% comments"
+msgstr "% comentarios"
+
+#: comments.legacy.php:17
+#: comments.php:34
+msgid "to"
+msgstr "en"
+
+#: comments.legacy.php:27
+msgid "says"
+msgstr "dice"
+
+#: comments.legacy.php:53
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.legacy.php:63
+msgid "Leave a Reply"
+msgstr "Deja una Respuesta"
+
+#: comments.legacy.php:67
+#: comments.php:67
+msgid "logged in"
+msgstr "identificado"
+
+#: comments.legacy.php:68
+#: comments.php:68
+#, php-format
+msgid "You must be $1%s to post a comment"
+msgstr "Debes estar $1%s para escribir un comentario"
+
+#: comments.legacy.php:75
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Identificado como"
+
+#: comments.legacy.php:75
+#: comments.php:75
+msgid "Log out of this account"
+msgstr "Salir de esta cuenta"
+
+#: comments.legacy.php:75
+#: comments.php:75
+msgid "Log out"
+msgstr "Salir"
+
+#: comments.legacy.php:80
+#: comments.php:80
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.legacy.php:80
+#: comments.legacy.php:83
+#: comments.php:80
+#: comments.php:83
+msgid "(required)"
+msgstr "(obligatorio)"
+
+#: comments.legacy.php:83
+#: comments.php:83
+msgid "Mail (will not be published)"
+msgstr "Mail (no será publicado)"
+
+#: comments.legacy.php:86
+#: comments.php:86
+msgid "Website"
+msgstr "Página Web"
+
+#: comments.legacy.php:94
+#: comments.php:94
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+#: comments.php:19
+#, php-format
+msgid "<span>Pingbacks</span> to &#8220;%s&#8221;"
+msgstr "<span>Pingbacks</span> hacia &#8220;%s&#8221;"
+
+#: comments.php:37
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:60
+msgid "Leave a Comment"
+msgstr "Deja un Comentario"
+
+#: comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja una Respuesta a %s"
+
+#: contextualInfo.php:3
+#, php-format
+msgid "Search results for <span>%s</span>"
+msgstr "Resultados de la búsqueda para <span>%s</span>"
+
+#: contextualInfo.php:9
+#, php-format
+msgid "Posts tagged with <span>%s</span>"
+msgstr "Entradas etiquetadas con <span>%s</span>"
+
+#: contextualInfo.php:16
+#, php-format
+msgid "Posts archived in <span>%s</span>"
+msgstr "Entradas archivadas en <span>%s</span>"
+
+#: contextualInfo.php:22
+#: contextualInfo.php:28
+#, php-format
+msgid "Posts published during <span>%s</span>"
+msgstr "Entradas publicadadas a lo largo del <span>%s</span>"
+
+#: contextualInfo.php:35
+#, php-format
+msgid "Posts published at <span>%s</span>"
+msgstr "Entradas publicadas el <span>%s</span>"
+
+#: footer.php:10
+#: functions.php:52
+msgid "Less is less,<br/>but usually better"
+msgstr "Menos es menos,<br/>pero casi siempre mola más"
+
+#: footer.php:13
+#, php-format
+msgid "%1$s is a minimalist, beautiful theme<br/>for %2$s created by %3$s"
+msgstr "%1$s es un tema de %2$s<br/>minimalista y precioso creado por %3$s"
+
+#: footer.php:13
+msgid "\"Less is Less\""
+msgstr "\"Menos es Menos\""
+
+#: functions.php:36
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: functions.php:41
+msgid "Color Scheme"
+msgstr "Esquema de Colores"
+
+#: functions.php:42
+msgid "Choose the color scheme."
+msgstr "Elige el esquema de colores."
+
+#: functions.php:48
+msgid "Footer Phrase"
+msgstr "Frase del pie de página"
+
+#: functions.php:49
+msgid "Choose the phrase that will appear at the bottom of the page. Use the <tt>br</tt> tag to force the line break."
+msgstr "Elige la frase que aparecerá abajo del todo en el blog. Usa el tag <tt>br</tt> para forzar el salto de línea."
+
+#: header.php:55
+msgid "Home"
+msgstr "Inicio"
+
+#: header.php:56
+msgid "Archive"
+msgstr "Archivo"
+
+#: index.php:14
+msgid "comments"
+msgstr "comentarios"
+
+#: index.php:16
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Enlace Permanente a %s"
+
+#: index.php:20
+msgid "Read the rest of this entry &raquo;"
+msgstr "Leer el resto de esta entrada &raquo;"
+
+#: index.php:22
+msgid "Edit"
+msgstr "Editar"
+
+#: index.php:25
+msgid "<p><strong>Pages:</strong> "
+msgstr "<p><strong>Páginas:</strong> "
+
+#: index.php:28
+msgid "Post Info"
+msgstr "Información de la Entrada"
+
+#: index.php:29
+msgid "Category:"
+msgstr "Categoría:"
+
+#: index.php:30
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: index.php:43
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entradas Anteriores"
+
+#: index.php:44
+msgid "Newer Entries &raquo;"
+msgstr "Entradas Más Recientes &raquo;"
+
+#: index.php:49
+msgid "Not Found"
+msgstr "No Encontrado"
+
+#: index.php:50
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Lo siento, pero estás buscando algo que no está aquí."
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: sidebar.php:19
+msgid "Use the widgets options to add things to this sidebar."
+msgstr "Usa las opciones de los widgets para añadir cosas a esta barra lateral."
+

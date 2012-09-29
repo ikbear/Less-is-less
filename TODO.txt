@@ -1,0 +1,11 @@
+última modificación: 6/04/09 
+
+ - Mejorar la galería
+ 
+ - Problema en Opera
+ - Comprobar qué hace con la paginación de comentarios al poner los pings
+
+¿2.0?
+
+ - Revisar checklist (completar esto sería muy pr0 ya) - http://codex.wordpress.org/Theme_Development_Checklist
+ - Archivo
